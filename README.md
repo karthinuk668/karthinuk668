@@ -1,4 +1,6 @@
 
+![](https://gitwar.herokuapp.com/badge?username=karthinuk668)
+![Karthi Vincent StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)
 
 
 ![Karthi's github activity graph](https://activity-graph.herokuapp.com/graph?username=karthinuk668&theme=dracula)
@@ -11,11 +13,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karthinuk668)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karthinuk668&theme=darkhub)]
 
-![](https://gitwar.herokuapp.com/badge?username=karthinuk668)
 
-![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthinuk668&theme=black-ice)
 
