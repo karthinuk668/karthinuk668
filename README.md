@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**karthinuk668/karthinuk668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Karthi's github activity graph](https://activity-graph.herokuapp.com/graph?username=karthinuk668&theme=dracula)
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
+![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthinuk668&count_private=true&&show_icons=true&theme=highcontrast)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthinuk668)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthinuk668&theme=darkhub)]
+
+![](https://gitwar.herokuapp.com/badge?username=karthinuk668)
+
+![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthinuk668&theme=black-ice)
+
